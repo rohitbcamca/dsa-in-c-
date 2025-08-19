@@ -2,4 +2,8 @@ Welcome to my **master repository**👋
 
 A central hub that brings together all my projects in one place for easy access and exploration.
 
-TOUR-and-TRAVEL .1.(https://github.com/rohitbcamca/SARP-TOUR-AND-TRAVEL)                                                                                                                                           WALMART SALES FORECASTING .2.(https://github.com/rohitbcamca/WALMART_HISTORICAL)                                                                                                                               STOPWATCH .3.(https://github.com/rohitbcamca/stopwatch-)                                                                                                                                                                WEATHERAPP .4.(https://github.com/rohitbcamca/wetherapp)
+TOUR-and-TRAVEL .1.(https://github.com/rohitbcamca/SARP-TOUR-AND-TRAVEL) 
+WALMART SALES FORECASTING .2.(https://github.com/rohitbcamca/WALMART_HISTORICAL) 
+STOPWATCH .3.(https://github.com/rohitbcamca/stopwatch-)     
+WEATHERAPP .4.(https://github.com/rohitbcamca/wetherapp)
+
