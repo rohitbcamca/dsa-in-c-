@@ -6,5 +6,7 @@ A central hub that brings together all my projects in one place for easy access 
 
 1. [TOUR-and-TRAVEL](https://github.com/rohitbcamca/SARP-TOUR-AND-TRAVEL)
 2. [WALMART SALES FORECASTING](https://github.com/rohitbcamca/WALMART_HISTORICAL)
-3. [STOPWATCH](https://github.com/rohitbcamca/stopwatch-)
-4. [WEATHERAPP](https://github.com/rohitbcamca/wetherapp)
+3. [PERSONAL PORTFOLIO](https://github.com/rohitbcamca/Portfolio/tree/main)
+4. [STOPWATCH](https://github.com/rohitbcamca/stopwatch-)
+5. [WEATHERAPP](https://github.com/rohitbcamca/wetherapp)
+   
